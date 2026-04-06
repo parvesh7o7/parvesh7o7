@@ -18,4 +18,5 @@ I am actively looking for **paid internships** in web development and software e
 
 ### 📫 Let's Connect
 Email: parveshsharma8910@gmail.com
+<br/>
 Linkedin: www.linkedin.com/in/parvesh-kumar-sharma-5b35332a5
