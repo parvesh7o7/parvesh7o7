@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Parvesh Kumar Sharma! 👋
 
-<!--
-**parvesh7o7/parvesh7o7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Web Developer and Professional Animator blending logic with creativity. I build interactive frontend applications and craft high-quality video content. 
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Skills
+* **Web Development:** HTML, CSS, JavaScript, React 
+* **Core Languages:** C, C++
+* **Creative:** Professional Video Editing & Animation
+* **Currently Learning:** Data Structures & Algorithms (DSA), and transitioning into Backend Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm Up To
+* 🛍️ **Featured Project:** Built a full frontend e-commerce interface using React. Check out [ShopperStop-React](https://github.com/parvesh7o7/ShopperStop-React).
+* 🌱 **Growth:** Deepening my problem-solving skills with C++ and DSA while expanding my stack to the backend.
+
+### 💼 Open to Work
+I am actively looking for **paid internships** in web development and software engineering. 
+*Also available for hire for paid freelance animation and video editing projects!*
+
+### 📫 Let's Connect
+Email: parveshsharma8910@gmail.com
+Linkedin: www.linkedin.com/in/parvesh-kumar-sharma-5b35332a5
