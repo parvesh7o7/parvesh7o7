@@ -4,7 +4,7 @@ I'm a Web Developer and Professional Animator blending logic with creativity. I 
 
 ### 🛠️ Tech Stack & Skills
 * **Web Development:** HTML, CSS, JavaScript, React, ExpressJS 
-* **Core Languages:** C, C++
+* **Core Languages:** C, C++, Python
 * **Creative:** Professional Video Editing & Animation
 * **Currently Learning:** Data Structures & Algorithms (DSA), and transitioning into Backend Development
 
