@@ -1,21 +1,93 @@
-# 💫 About Me:
-Full-stack web developer (React, Express, MySQL). Currently exploring data science and GenAI.<br>I built an AI-powered expense ledger that lets you track shared finances using natural<br>language. Instead of manually logging "I gave Ravi 300," just describe the transaction and<br>theapp records it automatically. It extracts data from natural language using Gemini API<br>and LangChain, and sends SMS reminders via Twilio when debts need settling.<br>I am also an editor (know premiere pro , aftereffects, photoshop)<br>i am open to work (paid)
+# Hi there, I'm Parvesh! 👋
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/parvesh_7o7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parvesh-kumar-sharma-5b35332a5?utm_source=share_via&utm_content=profile&utm_medium=member_ios) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:parveshsharma8910@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=parvesh7o7&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=parvesh7o7&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=parvesh7o7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=parvesh7o7&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Data+Science+%26+Gen+AI+Explorer;Professional+Video+Editor+%26+Animator" alt="Typing SVG" />
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=parvesh7o7&icon=9&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me
+
+I am a passionate **Computer Science & Engineering (B.Tech)** student with a unique dual-edge: I build robust, intelligent full-stack applications and craft high-impact visual media. Whether it’s optimizing a database, orchestrating LLMs with LangChain, or keyframing a complex animation, I love bringing ideas to life.
+
+* 🛠️ **Current Focus:** Building dynamic full-stack applications using the **MERN/PERN architecture** (React, Node.js, Express, MySQL).
+* 🧠 **Exploring:** Deep diving into **Data Science** engineering frameworks and **Generative AI** integrations.
+* 💼 **Open to Work:** I am actively seeking **paid opportunities** (freelance, contracts, or internships) across both **Technical** (Software/Web Development) and **Non-Technical** (Video Editing, Motion Design, Animation) domains.
+
+---
+
+## 🛠️ Core Tech Stack
+
+### 💻 Software Development
+![](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<br />
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🤖 Data Science & AI Exploration
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![](https://img.shields.io/badge/Google_Gemini-121011?style=for-the-badge&logo=google-gemini&logoColor=white)
+
+### 🎨 Creative & Design Suite
+![](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
+![](https://img.shields.io/badge/Premiere_Pro-9933CC?style=for-the-badge&logo=adobepremierepro&logoColor=white)
+![](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=black)
+![](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 AI-Powered Expense Ledger `Flagship Project`
+> An intelligent financial platform that removes the friction of manual bookkeeping by interpreting conversational language.
+* **Core Features:** Parses natural speech (e.g., *"I gave Ravi 300"*), maps entity relations dynamically, logs debt balances, and sends automatic SMS updates.
+* **Tech Stack:** `Gemini API` • `LangChain` • `Node.js` • `Express` • `React` • `MySQL` • `Twilio SMS API`
+
+### 📈 Crypto-Tracker
+> A modern financial dashboard providing real-time data tracking and custom visualizations for volatile digital assets.
+* **Core Features:** Live multi-currency updates, contextual historical timelines, and interactive date-filtered performance charts.
+* **Tech Stack:** `React` • `Vite` • `CoinGecko API` • `Chart.js` / `Recharts`
+
+### 🛍️ ShopperStop
+> An interactive e-commerce marketplace layout built to master functional components and state orchestration pipelines.
+* **Core Features:** Dynamic product filters, real-time cart counters, and fluid item responsive card grids.
+* **Tech Stack:** `React` • `JavaScript` • `HTML5` • `CSS3`
+
+---
+
+## 📊 Git Activity & Performance
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=parvesh7o7&show_icons=true&theme=tokyonight&count_private=true" alt="Parvesh's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parvesh7o7&layout=compact&theme=tokyonight" alt="Top Languages Card" height="180px" />
+</p>
+
+---
+
+## 🤝 Let's Connect!
+
+I am always thrilled to collaborate on innovative codebases or high-production video projects. Reach out via any of the channels below!
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/parvesh-kumar-sharma-5b35332a5" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+  <a href="mailto:parveshsharma8910@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+  </a>
+  <a href="https://www.instagram.com/parvesh_7o7" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
+  </a>
+</p>
+
+⚡ *Fun Fact: I look at code bugs and video timeline frames with the exact same level of detail-driven scrutiny!*
