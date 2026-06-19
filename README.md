@@ -11,7 +11,7 @@
 I am a passionate **Computer Science & Engineering (B.Tech)** student with a unique dual-edge: I build robust, intelligent full-stack applications and craft high-impact visual media. Whether it’s optimizing a database, orchestrating LLMs with LangChain, or keyframing a complex animation, I love bringing ideas to life.
 
 * 🛠️ **Current Focus:** Building dynamic full-stack applications using the **MERN/PERN architecture** (React, Node.js, Express, MySQL).
-* 🧠 **Exploring:** Deep diving into **Data Science** engineering frameworks and **Generative AI** integrations.
+* 🧠 **Exploring & Upskilling:** Deep diving into **Data Structures & Algorithms (DSA)**, learning backend frameworks, and exploring **Generative AI** integrations and **Data Science**.
 * 💼 **Open to Work:** I am actively seeking **paid opportunities** (freelance, contracts, or internships) across both **Technical** (Software/Web Development) and **Non-Technical** (Video Editing, Motion Design, Animation) domains.
 
 ---
