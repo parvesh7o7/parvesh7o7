@@ -51,16 +51,16 @@ I am a passionate **Computer Science & Engineering (B.Tech)** student with a uni
 ### 🤖 AI-Powered Expense Ledger `Flagship Project`
 > An intelligent financial platform that removes the friction of manual bookkeeping by interpreting conversational language.
 * **Core Features:** Parses natural speech (e.g., *"I gave Ravi 300"*), maps entity relations dynamically, logs debt balances, and sends automatic SMS updates.
-* **Tech Stack:** `Gemini API` • `LangChain` • `Node.js` • `Express` • `React` • `MySQL` • `Twilio SMS API`
+* **Tech Stack:** `Gemini API` • `LangChain` • `Node.js` • `Express` • `React` • `MySQL` • `Twilio SMS API` • `TailwindCSS`
 
 ### 📈 Crypto-Tracker
 > A modern financial dashboard providing real-time data tracking and custom visualizations for volatile digital assets.
 * **Core Features:** Live multi-currency updates, contextual historical timelines, and interactive date-filtered performance charts.
-* **Tech Stack:** `React` • `Vite` • `CoinGecko API` • `Chart.js` / `Recharts`
+* **Tech Stack:** `React` • `Vite` • `CoinGecko API` • `Chart.js`
 
 ### 🛍️ ShopperStop
 > An interactive e-commerce marketplace layout built to master functional components and state orchestration pipelines.
-* **Core Features:** Dynamic product filters, real-time cart counters, and fluid item responsive card grids.
+* **Core Features:** Dynamic product filters, real-time cart counters.
 * **Tech Stack:** `React` • `JavaScript` • `HTML5` • `CSS3`
 
 ---
