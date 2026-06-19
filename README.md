@@ -66,15 +66,6 @@ I am a passionate **Computer Science & Engineering (B.Tech)** student with a uni
 
 ---
 
-## 📊 Git Activity & Performance
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parvesh7o7&show_icons=true&theme=tokyonight&count_private=true" alt="Parvesh's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parvesh7o7&layout=compact&theme=tokyonight" alt="Top Languages Card" height="180px" />
-</p>
-
----
-
 ## 🤝 Let's Connect!
 
 I am always thrilled to collaborate on innovative codebases or high-production video projects. Reach out via any of the channels below!
