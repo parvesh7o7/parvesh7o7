@@ -1,4 +1,4 @@
-# Hi there, I'm Parvesh! 👋
+# Hi there, I'm Parvesh Kumar Sharma! 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Data+Science+%26+Gen+AI+Explorer;Professional+Video+Editor+%26+Animator" alt="Typing SVG" />
